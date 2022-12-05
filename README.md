@@ -4,8 +4,7 @@ Rails app generated with [lewagon/rails-templates](https://github.com/lewagon/ra
 
 A volunteer recruitment site/database developed in partnership with OpSAFE, an NPO that hosts camps for kids that have suffered from traumatic experiences. Not Alone allows camp organizers setting up a new camp page to immediately contact existing volunteers in the location of the new camp for recruitment.
 
-_DROP SCREENSHOT HERE_
-<br>
+
 App home: https://not-alone.online
  <img width="1248" alt="2022-12-05 (5)" src="https://user-images.githubusercontent.com/99112509/205581503-1c4010c1-d0fd-49df-a62a-c8a39218f517.png">
 <img width="1248" alt="2022-12-05 (8)" src="https://user-images.githubusercontent.com/99112509/205581515-206efea5-19a9-47d2-a5ac-4a6320db5a99.png">
